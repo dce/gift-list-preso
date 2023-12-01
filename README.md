@@ -4,10 +4,23 @@ lemme get that thumb
 
 ---
 
+# Monads
+
+> a monoid in the category of endofunctors
+
+LabShare  
+December 1, 2023
+
+---
+
 # David's 2023 Holiday Gift Guide
 
 LabShare  
 December 1, 2023
+
+---
+
+## Why?
 
 ---
 
