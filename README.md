@@ -62,12 +62,6 @@ December 1, 2023
 
 ---
 
-## [KeepCup Reusable Tempered Glass Coffee Cup](https://www.amazon.com/dp/B00KKRGXGS) ($28.00)
-
-![](images/30c02ada1836d424b9c130ed24660ef4.jpg)
-
----
-
 ## [Roku Streaming Stick 4K](https://www.roku.com/products/roku-streaming-stick-4k) ($29.99)
 
 ![](images/LTfrn2kqQ5NTiVs42Kupqd.png)
@@ -116,12 +110,6 @@ December 1, 2023
 
 ---
 
-## [Keychron K2](https://www.amazon.com/Keychron-Bluetooth-Wireless-Mechanical-Tenkeyless-Keyboard/dp/B07QCP1M8F/) ($55.99)
-
-![](images/keychron-01.jpg)
-
----
-
 ## [The James Brand "The Palmer"](https://thejamesbrand.com/products/the-palmer?variant=40379198931014) ($59.00)
 
 ![](images/TJB_PALMER_Space-Gray_SoldierOnWhite_PDP_1600x1296_3c11dd25-2715-45ef-91ef-5f53e6508e64.webp)
@@ -167,12 +155,6 @@ December 1, 2023
 ## [Moccamaster KBGT](https://us.moccamaster.com/collections/thermal-carafe-brewers/products/kbgt) ($349.00)
 
 ![](images/MoccaMaster_Set_79312_KBGT_PolishedSilver_3439-01_fdf3641d-7bf5-4af8-8968-f8ce5c293b57-329761_2048x.webp)
-
----
-
-## [Aventon Pace 500.3](https://www.aventon.com/products/pace500-3-step-through-ebike?variant=42381879181507) ($1599.00)
-
-![](images/pace--500-white-step-through-01.avif)
 
 ---
 
